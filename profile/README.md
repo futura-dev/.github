@@ -1,6 +1,6 @@
 # Welcome to Futura 🚀
 
-[![Logo](https://imgtr.ee/images/2023/05/24/wZXWs.png)](https://github.com/futura-dev) 
+[![Logo](http://static.futura-dev.com/horizontal-banner-white-logo.png)](https://github.com/futura-dev) 
 
 ## About us
 At **Futura**, we are a forward-thinking **software development** organization that combines **innovation**, **efficiency**, and **transparency** to deliver exceptional IT solutions. Our **mission** is to design and **develop innovative IT solutions** that provide added value to our customers, while our **vision** is to **build a better future** by bringing innovation, quality, and efficiency to the organizations we collaborate with.
